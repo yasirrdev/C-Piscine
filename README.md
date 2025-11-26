@@ -40,9 +40,6 @@ chmod +x script_name.sh
 ./script_name.sh
 📂 Estructura del repositorio
 Aquí una vista rápida de cómo está organizado:
-
-css
-Copy code
 /C-Piscine
   ├─ C00/           — Ejercicios del módulo 00  
   ├─ C01/           — Ejercicios del módulo 01  
@@ -56,6 +53,7 @@ Copy code
   ├─ Shell/         — Ejercicios de Shell / comandos / scripts  
   ├─ .gitignore  
   └─ LICENSE        — Licencia del repositorio (MIT)
+```bash
 Puedes agregar aquí más carpetas si decides ampliar el repositorio (tests, proyectos propios, etc.).
 
 ✅ Buenas prácticas y estilo
