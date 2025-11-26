@@ -53,7 +53,7 @@ Aquí una vista rápida de cómo está organizado:
   ├─ Shell/         — Ejercicios de Shell / comandos / scripts  
   ├─ .gitignore  
   └─ LICENSE        — Licencia del repositorio (MIT)
-```bash
+bash```
 Puedes agregar aquí más carpetas si decides ampliar el repositorio (tests, proyectos propios, etc.).
 
 ✅ Buenas prácticas y estilo
