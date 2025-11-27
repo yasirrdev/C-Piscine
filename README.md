@@ -24,7 +24,7 @@ Este repositorio agrupa los ejercicios de C correspondientes a los módulos 00�
 
 ## 🚀 ¿Cómo usarlo?
 
-```bash
+```
 git clone https://github.com/yasirrdev/C-Piscine.git
 cd C-Piscine
 Compila los ejercicios con gcc. Por ejemplo:
@@ -55,8 +55,9 @@ Aquí una vista rápida de cómo está organizado:
   └─ LICENSE        — Licencia del repositorio (MIT)
 ```
 Puedes agregar aquí más carpetas si decides ampliar el repositorio (tests, proyectos propios, etc.).
-
+---
 ✅ Buenas prácticas y estilo
+---
 Cada archivo en C está revisado para asegurar cumplimiento de normas (compilación sin warnings, estilo consistente, buena indentación).
 
 Si agregas código nuevo: añade comentarios claros, sigue la organización por carpetas, y actualiza este README si cambias la estructura.
